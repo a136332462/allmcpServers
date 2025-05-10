@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /wp-admin/
+Disallow: /config/
+Disallow: /*?category=*   # 新增：禁止爬取参数化分类URL
+Allow: /public/
+Crawl-delay: 2
+Sitemap: https://allmcp.org/sitemap.xml
