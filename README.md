@@ -2,60 +2,60 @@
 
 [![Website](https://img.shields.io/badge/Visit-All%20MCP%20Servers-blue?style=for-the-badge&logo=google-chrome)](https://allmcp.org/)
 
-**All MCP Servers** 是全球最大的 **Model Context Protocol (MCP)** 服务器资源库，致力于为开发者和企业提供最全面的 MCP 服务器目录和集成指南。我们的平台每日更新，收录了超过 **8,000+** 个 MCP 服务器资源，涵盖了 **20+** 个不同领域，帮助用户轻松连接 AI 模型与外部数据源、工具和 API。
+**All MCP Servers** is the world's largest resource library for **Model Context Protocol (MCP)** servers, dedicated to providing developers and enterprises with the most comprehensive directory of MCP servers and integration guides. Our platform is updated daily, featuring over **8,000+** MCP server resources across **20+** domains, enabling users to easily connect AI models with external data sources, tools, and APIs.
 
-## 网站作用
+## Purpose of the Website
 
-### 1. **MCP 服务器目录**
-- **每日更新**：我们持续收录最新的 MCP 服务器资源，确保用户能够获取最新、最全面的信息。
-- **分类清晰**：资源按类别分类，包括 Web Scraping、Communication、Productivity、Development、Database、AI/ML 等，方便用户快速查找所需资源。
-- **免费开放**：所有资源完全免费，无需登录即可访问。
+### 1. **MCP Server Directory**
+- **Daily Updates**: We continuously add the latest MCP server resources to ensure users have access to the most up-to-date information.
+- **Clear Categorization**: Resources are organized into categories such as Web Scraping, Communication, Productivity, Development, Database, AI/ML, and more, making it easy to find what you need.
+- **Free and Open**: All resources are completely free and accessible without requiring a login.
 
-### 2. **MCP 协议文档与指南**
-- **协议规范**：提供详细的 MCP 协议文档，帮助开发者理解并实现 MCP 集成。
-- **集成指南**：为开发者提供连接 AI 模型（如 Claude）与外部数据源的详细指南，降低开发门槛。
+### 2. **MCP Protocol Documentation & Guides**
+- **Protocol Specifications**: Provides detailed MCP protocol documentation to help developers understand and implement MCP integrations.
+- **Integration Guides**: Offers step-by-step guides for connecting AI models (like Claude) to external data sources, lowering the barrier to entry for developers.
 
-### 3. **资源搜索与发现**
-- **智能搜索**：支持通过名称、描述或类别搜索 MCP 服务器，快速定位所需资源。
-- **热门推荐**：展示最受欢迎和最新添加的 MCP 服务器，帮助用户发现优质资源。
+### 3. **Resource Search & Discovery**
+- **Smart Search**: Supports searching for MCP servers by name, description, or category, enabling quick access to relevant resources.
+- **Popular Recommendations**: Showcases the most popular and recently added MCP servers, helping users discover high-quality resources.
 
-### 4. **社区贡献与支持**
-- **开放协议**：MCP 是一个开源协议，鼓励社区贡献新的服务器实现和工具。
-- **企业支持**：Anthropic 计划提供企业级 MCP 服务器管理服务，满足企业的高要求。
+### 4. **Community Contributions & Support**
+- **Open Protocol**: MCP is an open-source protocol, encouraging community contributions of new server implementations and tools.
+- **Enterprise Support**: Anthropic plans to offer managed MCP server services to meet the high demands of enterprises.
 
-## 愿景
+## Vision
 
-我们的愿景是打破 AI 模型与数据源之间的信息孤岛，通过统一的 MCP 协议，实现安全、高效的 AI 集成。我们希望通过 **All MCP Servers** 平台，推动 MCP 协议的普及，让更多开发者能够轻松连接 AI 模型与外部资源，加速 AI 应用的创新与发展。
+Our vision is to break down the information silos between AI models and data sources by providing a unified MCP protocol for secure and efficient AI integration. Through the **All MCP Servers** platform, we aim to promote the widespread adoption of the MCP protocol, enabling more developers to easily connect AI models with external resources and accelerate innovation in AI applications.
 
-## 主要功能
+## Key Features
 
-- **全面的 MCP 服务器目录**：收录超过 8,000 个 MCP 服务器资源，涵盖 20+ 个领域。
-- **详细的协议文档**：提供 MCP 协议的完整规范和实现指南。
-- **智能搜索与分类**：支持按名称、描述或类别搜索资源，快速定位所需内容。
-- **每日更新**：持续更新资源库，确保用户获取最新信息。
-- **免费开放**：所有资源完全免费，无需登录即可访问。
+- **Comprehensive MCP Server Directory**: Features over 8,000 MCP server resources across 20+ domains.
+- **Detailed Protocol Documentation**: Provides complete specifications and implementation guides for the MCP protocol.
+- **Smart Search & Categorization**: Supports searching by name, description, or category for quick access to resources.
+- **Daily Updates**: Continuously updates the resource library to ensure users have the latest information.
+- **Free and Open**: All resources are completely free and accessible without requiring a login.
 
-## 如何使用
+## How to Use
 
-访问 [All MCP Servers](https://allmcp.org/) 网站，您可以通过以下方式快速找到所需资源：
-1. **搜索**：在搜索栏中输入关键词，查找相关 MCP 服务器。
-2. **分类浏览**：通过左侧分类栏，按类别浏览资源。
-3. **热门推荐**：查看首页推荐的热门和最新资源。
+Visit the [All MCP Servers](https://allmcp.org/) website to quickly find the resources you need:
+1. **Search**: Enter keywords in the search bar to find relevant MCP servers.
+2. **Browse by Category**: Use the category sidebar to explore resources by domain.
+3. **Popular Recommendations**: Check out the featured and latest resources on the homepage.
 
-## 贡献指南
+## Contribution Guidelines
 
-我们欢迎社区贡献新的 MCP 服务器资源！如果您有新的 MCP 服务器实现或工具，请通过 [提交资源](https://allmcp.org/) 页面进行提交。我们将审核并添加到资源库中。
+We welcome community contributions of new MCP server resources! If you have a new MCP server implementation or tool, please submit it through the [Submit Resource](https://allmcp.org/) page. We will review and add it to the resource library.
 
-## 联系与支持
+## Contact & Support
 
-如有任何问题或建议，请通过以下方式联系我们：
-- **邮箱**: blacksscreenteam@gmail.com
-- **GitHub Issues**: [提交问题](https://github.com/allmcp/allmcp.org/issues)
+For any questions or suggestions, please contact us via:
+- **Email**: support@allmcp.org
+- **GitHub Issues**: [Submit an Issue](https://github.com/allmcp/allmcp.org/issues)
 
-## 许可证
+## License
 
-本项目采用 [MIT 许可证](LICENSE)，欢迎自由使用和贡献。
+This project is licensed under the [MIT License](LICENSE). Feel free to use and contribute.
 
 ---
 
-**All MCP Servers** - 连接 AI 与数据，推动创新与效率。
+**All MCP Servers** - Connecting AI with data to drive innovation and efficiency.
