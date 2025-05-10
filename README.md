@@ -49,7 +49,7 @@ We welcome community contributions of new MCP server resources! If you have a ne
 ## Contact & Support
 
 For any questions or suggestions, please contact us via:
-- **Email**: support@allmcp.org
+- **Email**: blacksscreenteam@gmail.com
 - **GitHub Issues**: [Submit an Issue](https://github.com/allmcp/allmcp.org/issues)
 
 ## License
